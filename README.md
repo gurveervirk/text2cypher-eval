@@ -1,4 +1,4 @@
-# Text2Cypher Training Evaluation Results
+# Evaluating Various Text2Cypher Techniques
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## Overview
 
-This document summarizes the evaluation results of the Text2Cypher training process. The goal of this document is to evaluate 4 different Text2Cypher techniques and compare their performance.
+This document summarizes the evaluation results of various Cypher Query generation techniques, from NL. The goal of this document is to evaluate 4 different Text2Cypher techniques and compare their performance.
 
 ## Techniques Used
 
