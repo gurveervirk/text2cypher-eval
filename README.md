@@ -84,12 +84,11 @@ The 4 techniques were then used to generate 5 outputs for each example, which we
 ## References
 
 - [Qwen/Qwen2.5-Coder-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct)
-- [neo4j/text2cypher-2024v1](https://huggingface.co/datasets/neo4j/text2cypher-2024v1)
+- [neo4j/text2cypher-2024v1; used for GRPO training](https://huggingface.co/datasets/neo4j/text2cypher-2024v1)
 - [GRPO-tuned model](https://huggingface.co/Gurveer05/Qwen2.5-Coder-3B-Instruct-Text2Cypher-GRPO)
 - [Google BLEU Score](https://en.wikipedia.org/wiki/BLEU)
 - [GRPO](https://arxiv.org/abs/2402.03300)
 - [Direct Generation Training Data](https://huggingface.co/datasets/tomasonjo/text2cypher-gpt4o-clean)
-- [GRPO Training Data](https://huggingface.co/datasets/tomasonjo/text2cypher-gpt4o-rl)
 - [Sample GRPO Training Code](https://colab.research.google.com/drive/1hRIql1PnPf2mN52_aPUbaQ9S0vFpdCdh?usp=sharing)
 - [Sample Fine-tuning Code (w/o reasoning)](https://www.kaggle.com/code/gurveersinghvirk/sft-text2cypher)
 - [Code for generating Outputs for Eval](https://www.kaggle.com/code/gurveersinghvirk/text2cypher-eval)
